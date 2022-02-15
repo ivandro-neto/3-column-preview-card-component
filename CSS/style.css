@@ -51,7 +51,7 @@ p{
 }
 .boxes-left button{
     margin-top: 60px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 15px 30px 15px 30px;
     background-color: hsl(0, 0%, 95%);
@@ -63,7 +63,7 @@ p{
 }
 .boxes-center button{
     margin-top: 60px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 15px 30px 15px 30px;
     background-color: hsl(0, 0%, 95%);
@@ -75,7 +75,7 @@ p{
 }
 .boxes-right button{
     margin-top: 60px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 15px 30px 15px 30px;
     background-color: hsl(0, 0%, 95%);
@@ -133,7 +133,7 @@ p{
 
 .boxes-left button{
     margin-top: 30px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 15px 30px 15px 30px;
     background-color: hsl(0, 0%, 95%);
@@ -145,7 +145,7 @@ p{
 }
 .boxes-center button{
     margin-top: 30px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 10px 25px 10px 25px;
     background-color: hsl(0, 0%, 95%);
@@ -157,7 +157,7 @@ p{
 }
 .boxes-right button{
     margin-top: 30px;
-    border-radius: 25px ;
+    border-radius: 30px ;
     font-size: 15px;
     padding: 10px 25px 10px 25px;
     background-color: hsl(0, 0%, 95%);
