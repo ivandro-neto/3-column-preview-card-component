@@ -6,7 +6,7 @@
     .attribution a { 
         color: hsl(228, 45%, 44%);
          }
-/**/
+/*==========Desktop=================*/
 body{
     background-color: hsl(0, 0%, 95%);
     display: flex;
@@ -85,6 +85,7 @@ button{
     color: hsl(179, 100%, 13%);
     cursor: pointer;
 }
+/*===================Mobile===================*/
 @media only screen and (max-width: 600px){
  .boxes{
     margin-top: 10vh;
