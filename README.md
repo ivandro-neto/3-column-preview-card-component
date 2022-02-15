@@ -40,7 +40,7 @@ Users should be able to:
 - Media Query
 
 ### What I learned
-I recap about Media Query syntax and flexbox, I really enjoy working on this challenge
+I recap about Media Query syntax and flexbox, I had fun working on this challenge.
 
 ## Author
 -Git Hub - Ivandro Neto (https://www.github.com/ivandro-neto)
